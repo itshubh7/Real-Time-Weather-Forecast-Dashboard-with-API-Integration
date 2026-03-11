@@ -48,7 +48,7 @@ Business Intelligence & Data Visualization
 
 
 
-👨‍💻 Author
+👨‍💻 Author:
 
-Shubhradeep Das
+Shubhradeep Das | 
 Aspiring Data Analyst
