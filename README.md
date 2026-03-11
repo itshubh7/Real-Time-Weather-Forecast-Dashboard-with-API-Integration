@@ -6,7 +6,7 @@ An interactive Power BI dashboard that analyzes real-time weather data using API
 
 The Weather Forecast Report is a Power BI data visualization project built using live API data. The dashboard displays weather insights for six cities, allowing users to monitor temperature, AQI, and past week weather trends through interactive visuals and slicers.
 
-🚀 Key Features
+🚀 Key Features:
 
 Real-time weather data integration using API
 
@@ -20,7 +20,7 @@ Air Quality Index (AQI) monitoring
 
 City-wise comparison using slicers
 
-🧰 Tools & Technologies
+🧰 Tools & Technologies:
 
 Power BI
 
@@ -34,7 +34,7 @@ Data Transformation
 
 Interactive Data Visualization
 
-📈 Skills Demonstrated
+📈 Skills Demonstrated:
 
 Power BI Dashboard Development
 
